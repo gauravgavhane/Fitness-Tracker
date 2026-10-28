@@ -1,0 +1,5 @@
+com\project\fitness\model\User.class
+com\project\fitness\model\ActivityType.class
+com\project\fitness\FitnessMonolithApplication.class
+com\project\fitness\model\Activity.class
+com\project\fitness\model\Recommendation.class
